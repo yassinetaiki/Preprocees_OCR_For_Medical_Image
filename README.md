@@ -36,7 +36,3 @@ The project includes the following features:
 4. Use the `calcul_metric` function to evaluate OCR performance.
 5. Run the scripts to generate results and visualizations.
 
-## Execution Example
-
-```bash
-python main.py
